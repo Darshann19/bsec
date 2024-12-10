@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #swetha message
 hii
 =======
 madhwarj commit
 >>>>>>> b1
+=======
+hello
+>>>>>>> c1
